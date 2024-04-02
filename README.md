@@ -1,3 +1,5 @@
+[中文版](README.zh.md)
+
 # Simple-Python-DDoS-Attack
 
 
